@@ -1,0 +1,1 @@
+{1=Hello, 2=my, 3=obfuscator, 4=test, 5=Joe, 6=This, 7=program, 8=is, 9=designed, 10=to, 11=numbers, 12=which, 13=will, 14=match, 15=with, 16=an, 17=ID, 18=number, 19=in, 20=the, 21=HashMap, 22=file}

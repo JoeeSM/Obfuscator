@@ -1,0 +1,1 @@
+Hello, my name is Joe. This is my obfuscator test. This program is designed to replace all of the words within a desired file to numbers, which will match with an ID number in the HashMap file.
